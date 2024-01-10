@@ -1,6 +1,4 @@
-// URL https://api.openweathermap.org/data/2.5/weather?q=bogota&appid=3257091301d1cca0fd70065a261a4481&units=metric
-
-const apiKey = '3257091301d1cca0fd70065a261a4481';
+const apiKey = '';
 const apiUrl =
   'https://api.openweathermap.org/data/2.5/weather?units=metric&q=';
 const searchBox = document.querySelector('.search input');
